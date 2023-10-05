@@ -109,7 +109,7 @@ meant for an extra, extra challenge and won't affect your grade. **Make sure to
 commit your work to save your progress before attempting the extra bonus
 deliverables!**
 
-1. When a user adds or resets the votes for a character, in addition to
+1. When a user adds or resets the votes for a character, in addition tohttps://www.digitalocean.com/blog/introducing-digitalocean-managed-kafka
    displaying the updated votes on the page, the votes should **also** be
    updated on the server. You will need to make a request that follows this
    structure:
